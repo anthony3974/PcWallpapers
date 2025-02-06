@@ -11,6 +11,7 @@ This application automatically changes the desktop wallpaper at a custom interva
 1. Run the app.
 2. Select the master folder.
 3. Wallpapers will be automatically loaded from the wallpapers folder and rotated based on your timer settings.
+4. 
+[![App Showcase](https://img.youtube.com/vi/Joekwc8hV9c/0.jpg)](https://youtu.be/Joekwc8hV9c)
 
-[![App Demonstration](https://img.youtube.com/vi/RF8S3HdFhSY/0.jpg)](https://youtu.be/RF8S3HdFhSY)
 
